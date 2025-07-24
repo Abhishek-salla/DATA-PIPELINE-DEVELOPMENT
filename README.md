@@ -43,3 +43,5 @@ The main goals of this project are:
 1. Place `input_data.csv` in the same folder.
 2. Run: `python etl_pipeline.py`
 3. Output: `processed_data.csv` will be generated
+# OUT PUT
+<img width="1736" height="936" alt="Image" src="https://github.com/user-attachments/assets/bf384628-6afd-4e52-85b8-ab595f17c4fa" />
